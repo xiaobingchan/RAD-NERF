@@ -1,0 +1,15 @@
+__pycache__/
+build/
+*.egg-info/
+*.so
+*.mp4
+00*
+tmp*
+trial*/
+
+data
+
+data_utils/face_tracking/3DMM/3DMM_info.npy
+data_utils/face_tracking/3DMM/01_MorphableModel.mat
+pretrained
+*.mp4
